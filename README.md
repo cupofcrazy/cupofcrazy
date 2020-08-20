@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tobylobar&cover_image=false)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tobylobar&cover_image=false)
 
 <!--
 **cupofcrazy/cupofcrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
