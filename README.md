@@ -1,16 +1,31 @@
-### 👋
+<p align="center">
+  <samp>
+    Hi, I'm Tobi. <br /> I'm based in Washington <br /> and currently working as a UI Engineer.
+  </samp>
+</p>
 
-<!--
-**cupofcrazy/cupofcrazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<p align="center">
+  
+<p align="center">
 
-Here are some ideas to get you started:
+<p align="center">
+  <samp>
+    I'm currently building for the web, and initiating an independent practice, called <a href="https://p-01.computer" target="_blank">P—01</a> (soon)
+  </samp>
+</p>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <samp>
+    In my free time, I'm exploring <a href="https://tobi.computer/art" target="_blank">3D and digital illustration</a> 
+  </samp>
+</p>
+
+<br/>
+  
+<p align="center">
+  <sub>
+    find out more about me <a href="https://tobi.computer" target="_blank">here</a>
+  </sub>
+</p>
