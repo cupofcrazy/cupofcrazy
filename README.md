@@ -8,7 +8,7 @@
 
 <p align="center">
   <samp>
-    I'm currently building for the web, mobile, and initiating an independent practice, called <a style="color: yellow;" href="https://p-01.computer" target="_blank">P — 01</a> (soon)
+    I'm currently building for the web, mobile, and initiating an independent practice (soon)
   </samp>
 </p>
 <br/>
